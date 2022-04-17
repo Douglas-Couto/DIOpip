@@ -2,8 +2,10 @@
 
 Description. 
 The package package_name is used to:
-	- 
+	- Not yet defined
 	-
+	
+#Aux material https://github.com/Douglas-Couto/DIOpip/tree/main/package-template-master
 
 ## Installation
 
